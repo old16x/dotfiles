@@ -1,0 +1,7 @@
+require("options")
+require("keymaps")
+require("plugins")
+require("treesitter")
+require("lsp")
+require("completion")
+require("null_ls")
